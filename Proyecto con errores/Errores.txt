@@ -3,4 +3,5 @@
 3.El modo del timer t1 esta cambiado, deberia estar en la funcion "Trabajo, comando mantenido" y al contrario lo pusimos en la funcion "Luz intermitente, comando mantenido sincrono"
 4.Invertimos los finales de carrera que se encargan de soltar los objetos en la primera banda.
 5.El contacto para el boton de paro deberia ser siempre cerrado y para la primera banda lo pusimos abierto por lo tanto la primera banda no va a encender almenos que este presionado el boton de paro
-6.
+6.No están incluidos los relés térmicos
+7. Marca M3 reinicia el sistema cuando no debería de existir esa marca.
